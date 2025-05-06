@@ -3,6 +3,8 @@
 
 A powerful yet simple tool for downloading media content from various social platforms with enhanced playback capabilities.
 
+Here you can find some layout screenshots: https://abdulaziz.lovestoblog.com/my_projects.html?project=3
+
 
 ## Features ✨
 
